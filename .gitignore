@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+tokens/
+uploads/
+WhatsAppImages/
+*.log
+.DS_Store

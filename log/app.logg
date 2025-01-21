@@ -1,0 +1,5592 @@
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-11-29T19:28:07.803Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-11-29T19:28:07.808Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-11-29T19:28:07.809Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-11-30T06:44:48.549Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-11-30T06:44:48.553Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-11-30T06:44:48.554Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T07:48:01.269Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T07:49:01.730Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T07:49:02.059Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-11-30T07:49:02.067Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T07:59:15.784Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T08:00:16.284Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T08:00:16.616Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-11-30T08:00:16.618Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T08:00:53.220Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T08:01:53.709Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T08:01:53.997Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-11-30T08:01:53.998Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T08:03:35.923Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T08:04:36.345Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T08:04:36.733Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-11-30T08:04:36.736Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T08:07:24.074Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T08:07:59.787Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-11-30T08:07:59.918Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-11-30T08:08:01.001Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-11-30T08:08:02.483Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T08:08:02.666Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-11-30T09:31:44.309Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-11-30T09:31:44.314Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-11-30T09:31:44.315Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-11-30T09:31:46.450Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-11-30T09:31:50.106Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T09:31:50.109Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-11-30T09:31:50.310Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-11-30T09:31:50.440Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-01T04:26:42.722Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-01T04:26:42.727Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-01T04:26:42.728Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T04:26:47.603Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T04:26:49.496Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T04:26:50.036Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T04:26:50.555Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-01T04:26:50.730Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-01T04:37:40.112Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-01T04:37:40.116Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-01T04:37:40.117Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T04:37:44.201Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T04:37:46.768Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T04:37:47.246Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T04:37:47.717Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-01T04:37:48.237Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T05:06:13.489Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-01T05:14:55.741Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-01T05:14:55.746Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-01T05:14:55.747Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T05:14:57.955Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T05:15:00.638Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T05:15:00.962Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T05:15:01.376Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-01T05:15:01.944Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T05:41:00.748Z'
+}
+{
+  syscall: 'read',
+  code: 'ECONNRESET',
+  errno: -4077,
+  message: 'Error calling Webhook. read ECONNRESET',
+  name: 'Error',
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [ 'xhr', 'http', 'fetch' ],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: {
+      FormData: [Function: FormData] {
+        LINE_BREAK: '\r\n',
+        DEFAULT_CONTENT_TYPE: 'application/octet-stream'
+      },
+      Blob: [class Blob]
+    },
+    validateStatus: [Function: validateStatus],
+    headers: Object [AxiosHeaders] {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'axios/1.7.8',
+      'Content-Length': '72',
+      'Accept-Encoding': 'gzip, compress, deflate, br'
+    },
+    method: 'post',
+    url: 'https://fintecholympiad.org',
+    data: '{"event":"status-find","session":"TEST_SANDESH","status":"browserClose"}'
+  },
+  request: <ref *3> Writable {
+    _writableState: WritableState {
+      highWaterMark: 16384,
+      length: 0,
+      corked: 0,
+      onwrite: [Function: bound onwrite],
+      writelen: 0,
+      bufferedIndex: 0,
+      pendingcb: 0,
+      [Symbol(kState)]: 34357356,
+      [Symbol(kBufferedValue)]: null
+    },
+    _events: [Object: null prototype] {
+      response: [Function: handleResponse],
+      error: [Function: handleRequestError],
+      socket: [Function: handleRequestSocket]
+    },
+    _eventsCount: 3,
+    _maxListeners: undefined,
+    _options: {
+      maxRedirects: 21,
+      maxBodyLength: Infinity,
+      protocol: 'https:',
+      path: '/',
+      method: 'POST',
+      headers: [Object: null prototype] {
+        Accept: 'application/json, text/plain, */*',
+        'Content-Type': 'application/json',
+        'User-Agent': 'axios/1.7.8',
+        'Content-Length': '72',
+        'Accept-Encoding': 'gzip, compress, deflate, br'
+      },
+      agents: { http: undefined, https: undefined },
+      auth: undefined,
+      family: undefined,
+      beforeRedirect: [Function: dispatchBeforeRedirect],
+      beforeRedirects: { proxy: [Function: beforeRedirect] },
+      hostname: 'fintecholympiad.org',
+      port: '',
+      agent: undefined,
+      nativeProtocols: <ref *4> {
+        'http:': {
+          _connectionListener: [Function: connectionListener],
+          METHODS: [
+            'ACL',         'BIND',       'CHECKOUT',
+            'CONNECT',     'COPY',       'DELETE',
+            'GET',         'HEAD',       'LINK',
+            'LOCK',        'M-SEARCH',   'MERGE',
+            'MKACTIVITY',  'MKCALENDAR', 'MKCOL',
+            'MOVE',        'NOTIFY',     'OPTIONS',
+            'PATCH',       'POST',       'PROPFIND',
+            'PROPPATCH',   'PURGE',      'PUT',
+            'REBIND',      'REPORT',     'SEARCH',
+            'SOURCE',      'SUBSCRIBE',  'TRACE',
+            'UNBIND',      'UNLINK',     'UNLOCK',
+            'UNSUBSCRIBE'
+          ],
+          STATUS_CODES: {
+            '100': 'Continue',
+            '101': 'Switching Protocols',
+            '102': 'Processing',
+            '103': 'Early Hints',
+            '200': 'OK',
+            '201': 'Created',
+            '202': 'Accepted',
+            '203': 'Non-Authoritative Information',
+            '204': 'No Content',
+            '205': 'Reset Content',
+            '206': 'Partial Content',
+            '207': 'Multi-Status',
+            '208': 'Already Reported',
+            '226': 'IM Used',
+            '300': 'Multiple Choices',
+            '301': 'Moved Permanently',
+            '302': 'Found',
+            '303': 'See Other',
+            '304': 'Not Modified',
+            '305': 'Use Proxy',
+            '307': 'Temporary Redirect',
+            '308': 'Permanent Redirect',
+            '400': 'Bad Request',
+            '401': 'Unauthorized',
+            '402': 'Payment Required',
+            '403': 'Forbidden',
+            '404': 'Not Found',
+            '405': 'Method Not Allowed',
+            '406': 'Not Acceptable',
+            '407': 'Proxy Authentication Required',
+            '408': 'Request Timeout',
+            '409': 'Conflict',
+            '410': 'Gone',
+            '411': 'Length Required',
+            '412': 'Precondition Failed',
+            '413': 'Payload Too Large',
+            '414': 'URI Too Long',
+            '415': 'Unsupported Media Type',
+            '416': 'Range Not Satisfiable',
+            '417': 'Expectation Failed',
+            '418': "I'm a Teapot",
+            '421': 'Misdirected Request',
+            '422': 'Unprocessable Entity',
+            '423': 'Locked',
+            '424': 'Failed Dependency',
+            '425': 'Too Early',
+            '426': 'Upgrade Required',
+            '428': 'Precondition Required',
+            '429': 'Too Many Requests',
+            '431': 'Request Header Fields Too Large',
+            '451': 'Unavailable For Legal Reasons',
+            '500': 'Internal Server Error',
+            '501': 'Not Implemented',
+            '502': 'Bad Gateway',
+            '503': 'Service Unavailable',
+            '504': 'Gateway Timeout',
+            '505': 'HTTP Version Not Supported',
+            '506': 'Variant Also Negotiates',
+            '507': 'Insufficient Storage',
+            '508': 'Loop Detected',
+            '509': 'Bandwidth Limit Exceeded',
+            '510': 'Not Extended',
+            '511': 'Network Authentication Required'
+          },
+          Agent: [Function: Agent] { defaultMaxSockets: Infinity },
+          ClientRequest: [Function: ClientRequest],
+          IncomingMessage: [Function: IncomingMessage],
+          OutgoingMessage: [Function: OutgoingMessage],
+          Server: [Function: Server],
+          ServerResponse: [Function: ServerResponse],
+          createServer: [Function: createServer],
+          validateHeaderName: [Function: __node_internal_],
+          validateHeaderValue: [Function: __node_internal_],
+          get: [Function: get],
+          request: [Function: request],
+          setMaxIdleHTTPParsers: [Function: setMaxIdleHTTPParsers],
+          maxHeaderSize: [Getter],
+          globalAgent: [Getter/Setter]
+        },
+        'https:': {
+          Agent: [Function: Agent],
+          globalAgent: <ref *2> Agent {
+            _events: [Object: null prototype] {
+              free: [Function (anonymous)],
+              newListener: [Function: maybeEnableKeylog]
+            },
+            _eventsCount: 2,
+            _maxListeners: undefined,
+            defaultPort: 443,
+            protocol: 'https:',
+            options: [Object: null prototype] {
+              keepAlive: true,
+              scheduling: 'lifo',
+              timeout: 5000,
+              noDelay: true,
+              path: null
+            },
+            requests: [Object: null prototype] {},
+            sockets: [Object: null prototype] {
+              'fintecholympiad.org:443:::::::::::::::::::::': [
+                <ref *1> TLSSocket {
+                  _tlsOptions: {
+                    allowHalfOpen: undefined,
+                    pipe: false,
+                    secureContext: SecureContext { context: SecureContext {} },
+                    isServer: false,
+                    requestCert: true,
+                    rejectUnauthorized: true,
+                    session: <Buffer 30 82 06 a8 02 01 01 02 02 03 04 04 02 13 02 04 20 5b 53 b9 f9 f7 ea 96 61 be 34 5f 3d e5 e2 b3 aa 48 b9 b9 df 53 d4 eb 45 e9 48 f5 26 69 fd 8c fe 04 ... 1658 more bytes>,
+                    ALPNProtocols: undefined,
+                    requestOCSP: undefined,
+                    enableTrace: undefined,
+                    pskCallback: undefined,
+                    highWaterMark: undefined,
+                    onread: undefined,
+                    signal: undefined
+                  },
+                  _secureEstablished: false,
+                  _securePending: false,
+                  _newSessionPending: false,
+                  _controlReleased: true,
+                  secureConnecting: true,
+                  _SNICallback: null,
+                  servername: null,
+                  alpnProtocol: null,
+                  authorized: false,
+                  authorizationError: null,
+                  encrypted: true,
+                  _events: [Object: null prototype] {
+                    close: [
+                      [Function: onSocketCloseDestroySSL],
+                      [Function: bound onceWrapper] {
+                        listener: [Function (anonymous)]
+                      },
+                      [Function: onClose],
+                      [Function: socketCloseListener]
+                    ],
+                    end: [
+                      [Function: onConnectEnd],
+                      [Function: onReadableStreamEnd]
+                    ],
+                    newListener: [Function: keylogNewListener],
+                    secure: [Function: onConnectSecure],
+                    session: [Function (anonymous)],
+                    free: [Function: onFree],
+                    timeout: [
+                      [Function: onTimeout],
+                      [Function: bound onceWrapper] {
+                        listener: [Function: emitRequestTimeout]
+                      }
+                    ],
+                    agentRemove: [Function: onRemove],
+                    error: [Function: socketErrorListener],
+                    drain: [Function: ondrain]
+                  },
+                  _eventsCount: 10,
+                  connecting: false,
+                  _hadError: true,
+                  _parent: null,
+                  _host: 'fintecholympiad.org',
+                  _closeAfterHandlingError: false,
+                  _readableState: ReadableState {
+                    highWaterMark: 16384,
+                    buffer: BufferList { head: null, tail: null, length: 0 },
+                    length: 0,
+                    pipes: [],
+                    awaitDrainWriters: null,
+                    [Symbol(kState)]: 60355672,
+                    [Symbol(kErroredValue)]: Error: read ECONNRESET
+                        at __node_internal_captureLargerStackTrace (node:internal/errors:563:5)
+                        at __node_internal_errnoException (node:internal/errors:690:12)
+                        at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20) {
+                      errno: -4077,
+                      code: 'ECONNRESET',
+                      syscall: 'read'
+                    }
+                  },
+                  _maxListeners: undefined,
+                  _writableState: WritableState {
+                    highWaterMark: 16384,
+                    length: 308,
+                    corked: 0,
+                    onwrite: [Function: bound onwrite],
+                    writelen: 308,
+                    bufferedIndex: 0,
+                    pendingcb: 1,
+                    [Symbol(kState)]: 237798356,
+                    [Symbol(kBufferedValue)]: null,
+                    [Symbol(kWriteCbValue)]: [Function (anonymous)],
+                    [Symbol(kErroredValue)]: Error: read ECONNRESET
+                        at __node_internal_captureLargerStackTrace (node:internal/errors:563:5)
+                        at __node_internal_errnoException (node:internal/errors:690:12)
+                        at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20) {
+                      errno: -4077,
+                      code: 'ECONNRESET',
+                      syscall: 'read'
+                    }
+                  },
+                  allowHalfOpen: false,
+                  _sockname: null,
+                  _pendingData: null,
+                  _pendingEncoding: '',
+                  server: undefined,
+                  _server: null,
+                  ssl: null,
+                  _requestCert: true,
+                  _rejectUnauthorized: true,
+                  timeout: 5000,
+                  parser: null,
+                  _httpMessage: ClientRequest {
+                    _events: [Object: null prototype] {
+                      response: [Function: bound onceWrapper] {
+                        listener: [Function (anonymous)]
+                      },
+                      abort: [Function (anonymous)],
+                      aborted: [Function (anonymous)],
+                      connect: [Function (anonymous)],
+                      error: [Function (anonymous)],
+                      socket: [Function (anonymous)],
+                      timeout: [Function (anonymous)]
+                    },
+                    _eventsCount: 7,
+                    _maxListeners: undefined,
+                    outputData: [],
+                    outputSize: 0,
+                    writable: true,
+                    destroyed: false,
+                    _last: false,
+                    chunkedEncoding: false,
+                    shouldKeepAlive: true,
+                    maxRequestsOnConnectionReached: false,
+                    _defaultKeepAlive: true,
+                    useChunkedEncodingByDefault: true,
+                    sendDate: false,
+                    _removedConnection: false,
+                    _removedContLen: false,
+                    _removedTE: false,
+                    strictContentLength: false,
+                    _contentLength: '72',
+                    _hasBody: true,
+                    _trailer: '',
+                    finished: false,
+                    _headerSent: true,
+                    _closed: false,
+                    socket: [Circular *1],
+                    _header: 'POST / HTTP/1.1\r\n' +
+                      'Accept: application/json, text/plain, */*\r\n' +
+                      'Content-Type: application/json\r\n' +
+                      'User-Agent: axios/1.7.8\r\n' +
+                      'Content-Length: 72\r\n' +
+                      'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+                      'Host: fintecholympiad.org\r\n' +
+                      'Connection: keep-alive\r\n' +
+                      '\r\n',
+                    _keepAliveTimeout: 0,
+                    _onPendingData: [Function: nop],
+                    agent: [Circular *2],
+                    socketPath: undefined,
+                    method: 'POST',
+                    maxHeaderSize: undefined,
+                    insecureHTTPParser: undefined,
+                    joinDuplicateHeaders: undefined,
+                    path: '/',
+                    _ended: false,
+                    res: null,
+                    aborted: false,
+                    timeoutCb: [Function: emitRequestTimeout],
+                    upgradeOrConnect: false,
+                    parser: null,
+                    maxHeadersCount: null,
+                    reusedSocket: false,
+                    host: 'fintecholympiad.org',
+                    protocol: 'https:',
+                    _redirectable: [Circular *3],
+                    [Symbol(kCapture)]: false,
+                    [Symbol(kBytesWritten)]: 0,
+                    [Symbol(kNeedDrain)]: false,
+                    [Symbol(corked)]: 0,
+                    [Symbol(kOutHeaders)]: [Object: null prototype] {
+                      accept: [ 'Accept', 'application/json, text/plain, */*' ],
+                      'content-type': [ 'Content-Type', 'application/json' ],
+                      'user-agent': [ 'User-Agent', 'axios/1.7.8' ],
+                      'content-length': [ 'Content-Length', '72' ],
+                      'accept-encoding': [
+                        'Accept-Encoding',
+                        'gzip, compress, deflate, br'
+                      ],
+                      host: [ 'Host', 'fintecholympiad.org' ]
+                    },
+                    [Symbol(errored)]: null,
+                    [Symbol(kHighWaterMark)]: 16384,
+                    [Symbol(kRejectNonStandardBodyWrites)]: false,
+                    [Symbol(kUniqueHeaders)]: null
+                  },
+                  [Symbol(alpncallback)]: null,
+                  [Symbol(res)]: TLSWrap {
+                    _parent: TCP {
+                      reading: [Getter/Setter],
+                      onconnection: null,
+                      [Symbol(owner_symbol)]: [Circular *1],
+                      [Symbol(handle_onclose)]: [Function: done]
+                    },
+                    _parentWrap: null,
+                    _secureContext: SecureContext { context: SecureContext {} },
+                    reading: true,
+                    onkeylog: [Function: onkeylog],
+                    onhandshakestart: {},
+                    onhandshakedone: [Function (anonymous)],
+                    onocspresponse: [Function: onocspresponse],
+                    onnewsession: [Function: onnewsessionclient],
+                    onerror: [Function: onerror],
+                    [Symbol(owner_symbol)]: [Circular *1]
+                  },
+                  [Symbol(verified)]: false,
+                  [Symbol(pendingSession)]: null,
+                  [Symbol(async_id_symbol)]: 13117,
+                  [Symbol(kHandle)]: null,
+                  [Symbol(lastWriteQueueSize)]: 0,
+                  [Symbol(timeout)]: Timeout {
+                    _idleTimeout: -1,
+                    _idlePrev: null,
+                    _idleNext: null,
+                    _idleStart: 2834614,
+                    _onTimeout: null,
+                    _timerArgs: undefined,
+                    _repeat: null,
+                    _destroyed: true,
+                    [Symbol(refed)]: false,
+                    [Symbol(kHasPrimitive)]: false,
+                    [Symbol(asyncId)]: 13119,
+                    [Symbol(triggerId)]: 0
+                  },
+                  [Symbol(kBuffer)]: null,
+                  [Symbol(kBufferCb)]: null,
+                  [Symbol(kBufferGen)]: null,
+                  [Symbol(kCapture)]: false,
+                  [Symbol(kSetNoDelay)]: false,
+                  [Symbol(kSetKeepAlive)]: true,
+                  [Symbol(kSetKeepAliveInitialDelay)]: 60,
+                  [Symbol(kBytesRead)]: 0,
+                  [Symbol(kBytesWritten)]: 308,
+                  [Symbol(connect-options)]: {
+                    rejectUnauthorized: true,
+                    ciphers: 'TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES256-GCM-SHA384:DHE-RSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-SHA256:DHE-RSA-AES128-SHA256:ECDHE-RSA-AES256-SHA384:DHE-RSA-AES256-SHA384:ECDHE-RSA-AES256-SHA256:DHE-RSA-AES256-SHA256:HIGH:!aNULL:!eNULL:!EXPORT:!DES:!RC4:!MD5:!PSK:!SRP:!CAMELLIA',
+                    checkServerIdentity: [Function: checkServerIdentity],
+                    minDHSize: 1024,
+                    session: <Buffer 30 82 06 a8 02 01 01 02 02 03 04 04 02 13 02 04 20 5b 53 b9 f9 f7 ea 96 61 be 34 5f 3d e5 e2 b3 aa 48 b9 b9 df 53 d4 eb 45 e9 48 f5 26 69 fd 8c fe 04 ... 1658 more bytes>,
+                    maxRedirects: 21,
+                    maxBodyLength: Infinity,
+                    protocol: 'https:',
+                    path: null,
+                    method: 'POST',
+                    headers: [Object: null prototype] {
+                      Accept: 'application/json, text/plain, */*',
+                      'Content-Type': 'application/json',
+                      'User-Agent': 'axios/1.7.8',
+                      'Content-Length': '72',
+                      'Accept-Encoding': 'gzip, compress, deflate, br'
+                    },
+                    agents: { http: undefined, https: undefined },
+                    auth: undefined,
+                    family: undefined,
+                    beforeRedirect: [Function: dispatchBeforeRedirect],
+                    beforeRedirects: { proxy: [Function: beforeRedirect] },
+                    hostname: 'fintecholympiad.org',
+                    port: 443,
+                    agent: undefined,
+                    nativeProtocols: [Circular *4],
+                    pathname: '/',
+                    _defaultAgent: [Circular *2],
+                    host: 'fintecholympiad.org',
+                    keepAlive: true,
+                    scheduling: 'lifo',
+                    timeout: 5000,
+                    noDelay: true,
+                    servername: 'fintecholympiad.org',
+                    _agentKey: 'fintecholympiad.org:443:::::::::::::::::::::',
+                    encoding: null,
+                    keepAliveInitialDelay: 1000
+                  }
+                }
+              ]
+            },
+            freeSockets: [Object: null prototype] {},
+            keepAliveMsecs: 1000,
+            keepAlive: true,
+            maxSockets: Infinity,
+            maxFreeSockets: 256,
+            scheduling: 'lifo',
+            maxTotalSockets: Infinity,
+            totalSocketCount: 1,
+            maxCachedSessions: 100,
+            _sessionCache: {
+              map: {
+                'fintecholympiad.org:443:::::::::::::::::::::': <Buffer 30 82 06 a8 02 01 01 02 02 03 04 04 02 13 02 04 20 5b 53 b9 f9 f7 ea 96 61 be 34 5f 3d e5 e2 b3 aa 48 b9 b9 df 53 d4 eb 45 e9 48 f5 26 69 fd 8c fe 04 ... 1658 more bytes>
+              },
+              list: [ 'fintecholympiad.org:443:::::::::::::::::::::' ]
+            },
+            [Symbol(kCapture)]: false
+          },
+          Server: [Function: Server],
+          createServer: [Function: createServer],
+          get: [Function: get],
+          request: [Function: request]
+        }
+      },
+      pathname: '/'
+    },
+    _ended: false,
+    _ending: true,
+    _redirectCount: 0,
+    _redirects: [],
+    _requestBodyLength: 72,
+    _requestBodyBuffers: [
+      {
+        data: <Buffer 7b 22 65 76 65 6e 74 22 3a 22 73 74 61 74 75 73 2d 66 69 6e 64 22 2c 22 73 65 73 73 69 6f 6e 22 3a 22 54 45 53 54 5f 53 41 4e 44 45 53 48 22 2c 22 73 ... 22 more bytes>,
+        encoding: undefined
+      }
+    ],
+    _onNativeResponse: [Function (anonymous)],
+    _currentRequest: <ref *5> ClientRequest {
+      _events: [Object: null prototype] {
+        response: [Function: bound onceWrapper] {
+          listener: [Function (anonymous)]
+        },
+        abort: [Function (anonymous)],
+        aborted: [Function (anonymous)],
+        connect: [Function (anonymous)],
+        error: [Function (anonymous)],
+        socket: [Function (anonymous)],
+        timeout: [Function (anonymous)]
+      },
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: false,
+      chunkedEncoding: false,
+      shouldKeepAlive: true,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: '72',
+      _hasBody: true,
+      _trailer: '',
+      finished: false,
+      _headerSent: true,
+      _closed: false,
+      socket: <ref *1> TLSSocket {
+        _tlsOptions: {
+          allowHalfOpen: undefined,
+          pipe: false,
+          secureContext: SecureContext { context: SecureContext {} },
+          isServer: false,
+          requestCert: true,
+          rejectUnauthorized: true,
+          session: <Buffer 30 82 06 a8 02 01 01 02 02 03 04 04 02 13 02 04 20 5b 53 b9 f9 f7 ea 96 61 be 34 5f 3d e5 e2 b3 aa 48 b9 b9 df 53 d4 eb 45 e9 48 f5 26 69 fd 8c fe 04 ... 1658 more bytes>,
+          ALPNProtocols: undefined,
+          requestOCSP: undefined,
+          enableTrace: undefined,
+          pskCallback: undefined,
+          highWaterMark: undefined,
+          onread: undefined,
+          signal: undefined
+        },
+        _secureEstablished: false,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        secureConnecting: true,
+        _SNICallback: null,
+        servername: null,
+        alpnProtocol: null,
+        authorized: false,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object: null prototype] {
+          close: [
+            [Function: onSocketCloseDestroySSL],
+            [Function: bound onceWrapper] {
+              listener: [Function (anonymous)]
+            },
+            [Function: onClose],
+            [Function: socketCloseListener]
+          ],
+          end: [ [Function: onConnectEnd], [Function: onReadableStreamEnd] ],
+          newListener: [Function: keylogNewListener],
+          secure: [Function: onConnectSecure],
+          session: [Function (anonymous)],
+          free: [Function: onFree],
+          timeout: [
+            [Function: onTimeout],
+            [Function: bound onceWrapper] {
+              listener: [Function: emitRequestTimeout]
+            }
+          ],
+          agentRemove: [Function: onRemove],
+          error: [Function: socketErrorListener],
+          drain: [Function: ondrain]
+        },
+        _eventsCount: 10,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'fintecholympiad.org',
+        _closeAfterHandlingError: false,
+        _readableState: ReadableState {
+          highWaterMark: 16384,
+          buffer: BufferList { head: null, tail: null, length: 0 },
+          length: 0,
+          pipes: [],
+          awaitDrainWriters: null,
+          [Symbol(kState)]: 60355672,
+          [Symbol(kErroredValue)]: Error: read ECONNRESET
+              at __node_internal_captureLargerStackTrace (node:internal/errors:563:5)
+              at __node_internal_errnoException (node:internal/errors:690:12)
+              at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20) {
+            errno: -4077,
+            code: 'ECONNRESET',
+            syscall: 'read'
+          }
+        },
+        _maxListeners: undefined,
+        _writableState: WritableState {
+          highWaterMark: 16384,
+          length: 308,
+          corked: 0,
+          onwrite: [Function: bound onwrite],
+          writelen: 308,
+          bufferedIndex: 0,
+          pendingcb: 1,
+          [Symbol(kState)]: 237798356,
+          [Symbol(kBufferedValue)]: null,
+          [Symbol(kWriteCbValue)]: [Function (anonymous)],
+          [Symbol(kErroredValue)]: Error: read ECONNRESET
+              at __node_internal_captureLargerStackTrace (node:internal/errors:563:5)
+              at __node_internal_errnoException (node:internal/errors:690:12)
+              at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20) {
+            errno: -4077,
+            code: 'ECONNRESET',
+            syscall: 'read'
+          }
+        },
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        timeout: 5000,
+        parser: null,
+        _httpMessage: [Circular *5],
+        [Symbol(alpncallback)]: null,
+        [Symbol(res)]: TLSWrap {
+          _parent: TCP {
+            reading: [Getter/Setter],
+            onconnection: null,
+            [Symbol(owner_symbol)]: [Circular *1],
+            [Symbol(handle_onclose)]: [Function: done]
+          },
+          _parentWrap: null,
+          _secureContext: SecureContext { context: SecureContext {} },
+          reading: true,
+          onkeylog: [Function: onkeylog],
+          onhandshakestart: {},
+          onhandshakedone: [Function (anonymous)],
+          onocspresponse: [Function: onocspresponse],
+          onnewsession: [Function: onnewsessionclient],
+          onerror: [Function: onerror],
+          [Symbol(owner_symbol)]: [Circular *1]
+        },
+        [Symbol(verified)]: false,
+        [Symbol(pendingSession)]: null,
+        [Symbol(async_id_symbol)]: 13117,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 0,
+        [Symbol(timeout)]: Timeout {
+          _idleTimeout: -1,
+          _idlePrev: null,
+          _idleNext: null,
+          _idleStart: 2834614,
+          _onTimeout: null,
+          _timerArgs: undefined,
+          _repeat: null,
+          _destroyed: true,
+          [Symbol(refed)]: false,
+          [Symbol(kHasPrimitive)]: false,
+          [Symbol(asyncId)]: 13119,
+          [Symbol(triggerId)]: 0
+        },
+        [Symbol(kBuffer)]: null,
+        [Symbol(kBufferCb)]: null,
+        [Symbol(kBufferGen)]: null,
+        [Symbol(kCapture)]: false,
+        [Symbol(kSetNoDelay)]: false,
+        [Symbol(kSetKeepAlive)]: true,
+        [Symbol(kSetKeepAliveInitialDelay)]: 60,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 308,
+        [Symbol(connect-options)]: {
+          rejectUnauthorized: true,
+          ciphers: 'TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES256-GCM-SHA384:DHE-RSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-SHA256:DHE-RSA-AES128-SHA256:ECDHE-RSA-AES256-SHA384:DHE-RSA-AES256-SHA384:ECDHE-RSA-AES256-SHA256:DHE-RSA-AES256-SHA256:HIGH:!aNULL:!eNULL:!EXPORT:!DES:!RC4:!MD5:!PSK:!SRP:!CAMELLIA',
+          checkServerIdentity: [Function: checkServerIdentity],
+          minDHSize: 1024,
+          session: <Buffer 30 82 06 a8 02 01 01 02 02 03 04 04 02 13 02 04 20 5b 53 b9 f9 f7 ea 96 61 be 34 5f 3d e5 e2 b3 aa 48 b9 b9 df 53 d4 eb 45 e9 48 f5 26 69 fd 8c fe 04 ... 1658 more bytes>,
+          maxRedirects: 21,
+          maxBodyLength: Infinity,
+          protocol: 'https:',
+          path: null,
+          method: 'POST',
+          headers: [Object: null prototype] {
+            Accept: 'application/json, text/plain, */*',
+            'Content-Type': 'application/json',
+            'User-Agent': 'axios/1.7.8',
+            'Content-Length': '72',
+            'Accept-Encoding': 'gzip, compress, deflate, br'
+          },
+          agents: { http: undefined, https: undefined },
+          auth: undefined,
+          family: undefined,
+          beforeRedirect: [Function: dispatchBeforeRedirect],
+          beforeRedirects: { proxy: [Function: beforeRedirect] },
+          hostname: 'fintecholympiad.org',
+          port: 443,
+          agent: undefined,
+          nativeProtocols: <ref *4> {
+            'http:': {
+              _connectionListener: [Function: connectionListener],
+              METHODS: [
+                'ACL',         'BIND',       'CHECKOUT',
+                'CONNECT',     'COPY',       'DELETE',
+                'GET',         'HEAD',       'LINK',
+                'LOCK',        'M-SEARCH',   'MERGE',
+                'MKACTIVITY',  'MKCALENDAR', 'MKCOL',
+                'MOVE',        'NOTIFY',     'OPTIONS',
+                'PATCH',       'POST',       'PROPFIND',
+                'PROPPATCH',   'PURGE',      'PUT',
+                'REBIND',      'REPORT',     'SEARCH',
+                'SOURCE',      'SUBSCRIBE',  'TRACE',
+                'UNBIND',      'UNLINK',     'UNLOCK',
+                'UNSUBSCRIBE'
+              ],
+              STATUS_CODES: {
+                '100': 'Continue',
+                '101': 'Switching Protocols',
+                '102': 'Processing',
+                '103': 'Early Hints',
+                '200': 'OK',
+                '201': 'Created',
+                '202': 'Accepted',
+                '203': 'Non-Authoritative Information',
+                '204': 'No Content',
+                '205': 'Reset Content',
+                '206': 'Partial Content',
+                '207': 'Multi-Status',
+                '208': 'Already Reported',
+                '226': 'IM Used',
+                '300': 'Multiple Choices',
+                '301': 'Moved Permanently',
+                '302': 'Found',
+                '303': 'See Other',
+                '304': 'Not Modified',
+                '305': 'Use Proxy',
+                '307': 'Temporary Redirect',
+                '308': 'Permanent Redirect',
+                '400': 'Bad Request',
+                '401': 'Unauthorized',
+                '402': 'Payment Required',
+                '403': 'Forbidden',
+                '404': 'Not Found',
+                '405': 'Method Not Allowed',
+                '406': 'Not Acceptable',
+                '407': 'Proxy Authentication Required',
+                '408': 'Request Timeout',
+                '409': 'Conflict',
+                '410': 'Gone',
+                '411': 'Length Required',
+                '412': 'Precondition Failed',
+                '413': 'Payload Too Large',
+                '414': 'URI Too Long',
+                '415': 'Unsupported Media Type',
+                '416': 'Range Not Satisfiable',
+                '417': 'Expectation Failed',
+                '418': "I'm a Teapot",
+                '421': 'Misdirected Request',
+                '422': 'Unprocessable Entity',
+                '423': 'Locked',
+                '424': 'Failed Dependency',
+                '425': 'Too Early',
+                '426': 'Upgrade Required',
+                '428': 'Precondition Required',
+                '429': 'Too Many Requests',
+                '431': 'Request Header Fields Too Large',
+                '451': 'Unavailable For Legal Reasons',
+                '500': 'Internal Server Error',
+                '501': 'Not Implemented',
+                '502': 'Bad Gateway',
+                '503': 'Service Unavailable',
+                '504': 'Gateway Timeout',
+                '505': 'HTTP Version Not Supported',
+                '506': 'Variant Also Negotiates',
+                '507': 'Insufficient Storage',
+                '508': 'Loop Detected',
+                '509': 'Bandwidth Limit Exceeded',
+                '510': 'Not Extended',
+                '511': 'Network Authentication Required'
+              },
+              Agent: [Function: Agent] { defaultMaxSockets: Infinity },
+              ClientRequest: [Function: ClientRequest],
+              IncomingMessage: [Function: IncomingMessage],
+              OutgoingMessage: [Function: OutgoingMessage],
+              Server: [Function: Server],
+              ServerResponse: [Function: ServerResponse],
+              createServer: [Function: createServer],
+              validateHeaderName: [Function: __node_internal_],
+              validateHeaderValue: [Function: __node_internal_],
+              get: [Function: get],
+              request: [Function: request],
+              setMaxIdleHTTPParsers: [Function: setMaxIdleHTTPParsers],
+              maxHeaderSize: [Getter],
+              globalAgent: [Getter/Setter]
+            },
+            'https:': {
+              Agent: [Function: Agent],
+              globalAgent: <ref *2> Agent {
+                _events: [Object: null prototype] {
+                  free: [Function (anonymous)],
+                  newListener: [Function: maybeEnableKeylog]
+                },
+                _eventsCount: 2,
+                _maxListeners: undefined,
+                defaultPort: 443,
+                protocol: 'https:',
+                options: [Object: null prototype] {
+                  keepAlive: true,
+                  scheduling: 'lifo',
+                  timeout: 5000,
+                  noDelay: true,
+                  path: null
+                },
+                requests: [Object: null prototype] {},
+                sockets: [Object: null prototype] {
+                  'fintecholympiad.org:443:::::::::::::::::::::': [ [Circular *1] ]
+                },
+                freeSockets: [Object: null prototype] {},
+                keepAliveMsecs: 1000,
+                keepAlive: true,
+                maxSockets: Infinity,
+                maxFreeSockets: 256,
+                scheduling: 'lifo',
+                maxTotalSockets: Infinity,
+                totalSocketCount: 1,
+                maxCachedSessions: 100,
+                _sessionCache: {
+                  map: {
+                    'fintecholympiad.org:443:::::::::::::::::::::': <Buffer 30 82 06 a8 02 01 01 02 02 03 04 04 02 13 02 04 20 5b 53 b9 f9 f7 ea 96 61 be 34 5f 3d e5 e2 b3 aa 48 b9 b9 df 53 d4 eb 45 e9 48 f5 26 69 fd 8c fe 04 ... 1658 more bytes>
+                  },
+                  list: [ 'fintecholympiad.org:443:::::::::::::::::::::' ]
+                },
+                [Symbol(kCapture)]: false
+              },
+              Server: [Function: Server],
+              createServer: [Function: createServer],
+              get: [Function: get],
+              request: [Function: request]
+            }
+          },
+          pathname: '/',
+          _defaultAgent: <ref *2> Agent {
+            _events: [Object: null prototype] {
+              free: [Function (anonymous)],
+              newListener: [Function: maybeEnableKeylog]
+            },
+            _eventsCount: 2,
+            _maxListeners: undefined,
+            defaultPort: 443,
+            protocol: 'https:',
+            options: [Object: null prototype] {
+              keepAlive: true,
+              scheduling: 'lifo',
+              timeout: 5000,
+              noDelay: true,
+              path: null
+            },
+            requests: [Object: null prototype] {},
+            sockets: [Object: null prototype] {
+              'fintecholympiad.org:443:::::::::::::::::::::': [ [Circular *1] ]
+            },
+            freeSockets: [Object: null prototype] {},
+            keepAliveMsecs: 1000,
+            keepAlive: true,
+            maxSockets: Infinity,
+            maxFreeSockets: 256,
+            scheduling: 'lifo',
+            maxTotalSockets: Infinity,
+            totalSocketCount: 1,
+            maxCachedSessions: 100,
+            _sessionCache: {
+              map: {
+                'fintecholympiad.org:443:::::::::::::::::::::': <Buffer 30 82 06 a8 02 01 01 02 02 03 04 04 02 13 02 04 20 5b 53 b9 f9 f7 ea 96 61 be 34 5f 3d e5 e2 b3 aa 48 b9 b9 df 53 d4 eb 45 e9 48 f5 26 69 fd 8c fe 04 ... 1658 more bytes>
+              },
+              list: [ 'fintecholympiad.org:443:::::::::::::::::::::' ]
+            },
+            [Symbol(kCapture)]: false
+          },
+          host: 'fintecholympiad.org',
+          keepAlive: true,
+          scheduling: 'lifo',
+          timeout: 5000,
+          noDelay: true,
+          servername: 'fintecholympiad.org',
+          _agentKey: 'fintecholympiad.org:443:::::::::::::::::::::',
+          encoding: null,
+          keepAliveInitialDelay: 1000
+        }
+      },
+      _header: 'POST / HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: axios/1.7.8\r\n' +
+        'Content-Length: 72\r\n' +
+        'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+        'Host: fintecholympiad.org\r\n' +
+        'Connection: keep-alive\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: <ref *2> Agent {
+        _events: [Object: null prototype] {
+          free: [Function (anonymous)],
+          newListener: [Function: maybeEnableKeylog]
+        },
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object: null prototype] {
+          keepAlive: true,
+          scheduling: 'lifo',
+          timeout: 5000,
+          noDelay: true,
+          path: null
+        },
+        requests: [Object: null prototype] {},
+        sockets: [Object: null prototype] {
+          'fintecholympiad.org:443:::::::::::::::::::::': [
+            <ref *1> TLSSocket {
+              _tlsOptions: {
+                allowHalfOpen: undefined,
+                pipe: false,
+                secureContext: SecureContext { context: SecureContext {} },
+                isServer: false,
+                requestCert: true,
+                rejectUnauthorized: true,
+                session: <Buffer 30 82 06 a8 02 01 01 02 02 03 04 04 02 13 02 04 20 5b 53 b9 f9 f7 ea 96 61 be 34 5f 3d e5 e2 b3 aa 48 b9 b9 df 53 d4 eb 45 e9 48 f5 26 69 fd 8c fe 04 ... 1658 more bytes>,
+                ALPNProtocols: undefined,
+                requestOCSP: undefined,
+                enableTrace: undefined,
+                pskCallback: undefined,
+                highWaterMark: undefined,
+                onread: undefined,
+                signal: undefined
+              },
+              _secureEstablished: false,
+              _securePending: false,
+              _newSessionPending: false,
+              _controlReleased: true,
+              secureConnecting: true,
+              _SNICallback: null,
+              servername: null,
+              alpnProtocol: null,
+              authorized: false,
+              authorizationError: null,
+              encrypted: true,
+              _events: [Object: null prototype] {
+                close: [
+                  [Function: onSocketCloseDestroySSL],
+                  [Function: bound onceWrapper] {
+                    listener: [Function (anonymous)]
+                  },
+                  [Function: onClose],
+                  [Function: socketCloseListener]
+                ],
+                end: [
+                  [Function: onConnectEnd],
+                  [Function: onReadableStreamEnd]
+                ],
+                newListener: [Function: keylogNewListener],
+                secure: [Function: onConnectSecure],
+                session: [Function (anonymous)],
+                free: [Function: onFree],
+                timeout: [
+                  [Function: onTimeout],
+                  [Function: bound onceWrapper] {
+                    listener: [Function: emitRequestTimeout]
+                  }
+                ],
+                agentRemove: [Function: onRemove],
+                error: [Function: socketErrorListener],
+                drain: [Function: ondrain]
+              },
+              _eventsCount: 10,
+              connecting: false,
+              _hadError: true,
+              _parent: null,
+              _host: 'fintecholympiad.org',
+              _closeAfterHandlingError: false,
+              _readableState: ReadableState {
+                highWaterMark: 16384,
+                buffer: BufferList { head: null, tail: null, length: 0 },
+                length: 0,
+                pipes: [],
+                awaitDrainWriters: null,
+                [Symbol(kState)]: 60355672,
+                [Symbol(kErroredValue)]: Error: read ECONNRESET
+                    at __node_internal_captureLargerStackTrace (node:internal/errors:563:5)
+                    at __node_internal_errnoException (node:internal/errors:690:12)
+                    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20) {
+                  errno: -4077,
+                  code: 'ECONNRESET',
+                  syscall: 'read'
+                }
+              },
+              _maxListeners: undefined,
+              _writableState: WritableState {
+                highWaterMark: 16384,
+                length: 308,
+                corked: 0,
+                onwrite: [Function: bound onwrite],
+                writelen: 308,
+                bufferedIndex: 0,
+                pendingcb: 1,
+                [Symbol(kState)]: 237798356,
+                [Symbol(kBufferedValue)]: null,
+                [Symbol(kWriteCbValue)]: [Function (anonymous)],
+                [Symbol(kErroredValue)]: Error: read ECONNRESET
+                    at __node_internal_captureLargerStackTrace (node:internal/errors:563:5)
+                    at __node_internal_errnoException (node:internal/errors:690:12)
+                    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20) {
+                  errno: -4077,
+                  code: 'ECONNRESET',
+                  syscall: 'read'
+                }
+              },
+              allowHalfOpen: false,
+              _sockname: null,
+              _pendingData: null,
+              _pendingEncoding: '',
+              server: undefined,
+              _server: null,
+              ssl: null,
+              _requestCert: true,
+              _rejectUnauthorized: true,
+              timeout: 5000,
+              parser: null,
+              _httpMessage: [Circular *5],
+              [Symbol(alpncallback)]: null,
+              [Symbol(res)]: TLSWrap {
+                _parent: TCP {
+                  reading: [Getter/Setter],
+                  onconnection: null,
+                  [Symbol(owner_symbol)]: [Circular *1],
+                  [Symbol(handle_onclose)]: [Function: done]
+                },
+                _parentWrap: null,
+                _secureContext: SecureContext { context: SecureContext {} },
+                reading: true,
+                onkeylog: [Function: onkeylog],
+                onhandshakestart: {},
+                onhandshakedone: [Function (anonymous)],
+                onocspresponse: [Function: onocspresponse],
+                onnewsession: [Function: onnewsessionclient],
+                onerror: [Function: onerror],
+                [Symbol(owner_symbol)]: [Circular *1]
+              },
+              [Symbol(verified)]: false,
+              [Symbol(pendingSession)]: null,
+              [Symbol(async_id_symbol)]: 13117,
+              [Symbol(kHandle)]: null,
+              [Symbol(lastWriteQueueSize)]: 0,
+              [Symbol(timeout)]: Timeout {
+                _idleTimeout: -1,
+                _idlePrev: null,
+                _idleNext: null,
+                _idleStart: 2834614,
+                _onTimeout: null,
+                _timerArgs: undefined,
+                _repeat: null,
+                _destroyed: true,
+                [Symbol(refed)]: false,
+                [Symbol(kHasPrimitive)]: false,
+                [Symbol(asyncId)]: 13119,
+                [Symbol(triggerId)]: 0
+              },
+              [Symbol(kBuffer)]: null,
+              [Symbol(kBufferCb)]: null,
+              [Symbol(kBufferGen)]: null,
+              [Symbol(kCapture)]: false,
+              [Symbol(kSetNoDelay)]: false,
+              [Symbol(kSetKeepAlive)]: true,
+              [Symbol(kSetKeepAliveInitialDelay)]: 60,
+              [Symbol(kBytesRead)]: 0,
+              [Symbol(kBytesWritten)]: 308,
+              [Symbol(connect-options)]: {
+                rejectUnauthorized: true,
+                ciphers: 'TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES256-GCM-SHA384:DHE-RSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-SHA256:DHE-RSA-AES128-SHA256:ECDHE-RSA-AES256-SHA384:DHE-RSA-AES256-SHA384:ECDHE-RSA-AES256-SHA256:DHE-RSA-AES256-SHA256:HIGH:!aNULL:!eNULL:!EXPORT:!DES:!RC4:!MD5:!PSK:!SRP:!CAMELLIA',
+                checkServerIdentity: [Function: checkServerIdentity],
+                minDHSize: 1024,
+                session: <Buffer 30 82 06 a8 02 01 01 02 02 03 04 04 02 13 02 04 20 5b 53 b9 f9 f7 ea 96 61 be 34 5f 3d e5 e2 b3 aa 48 b9 b9 df 53 d4 eb 45 e9 48 f5 26 69 fd 8c fe 04 ... 1658 more bytes>,
+                maxRedirects: 21,
+                maxBodyLength: Infinity,
+                protocol: 'https:',
+                path: null,
+                method: 'POST',
+                headers: [Object: null prototype] {
+                  Accept: 'application/json, text/plain, */*',
+                  'Content-Type': 'application/json',
+                  'User-Agent': 'axios/1.7.8',
+                  'Content-Length': '72',
+                  'Accept-Encoding': 'gzip, compress, deflate, br'
+                },
+                agents: { http: undefined, https: undefined },
+                auth: undefined,
+                family: undefined,
+                beforeRedirect: [Function: dispatchBeforeRedirect],
+                beforeRedirects: { proxy: [Function: beforeRedirect] },
+                hostname: 'fintecholympiad.org',
+                port: 443,
+                agent: undefined,
+                nativeProtocols: <ref *4> {
+                  'http:': {
+                    _connectionListener: [Function: connectionListener],
+                    METHODS: [
+                      'ACL',         'BIND',       'CHECKOUT',
+                      'CONNECT',     'COPY',       'DELETE',
+                      'GET',         'HEAD',       'LINK',
+                      'LOCK',        'M-SEARCH',   'MERGE',
+                      'MKACTIVITY',  'MKCALENDAR', 'MKCOL',
+                      'MOVE',        'NOTIFY',     'OPTIONS',
+                      'PATCH',       'POST',       'PROPFIND',
+                      'PROPPATCH',   'PURGE',      'PUT',
+                      'REBIND',      'REPORT',     'SEARCH',
+                      'SOURCE',      'SUBSCRIBE',  'TRACE',
+                      'UNBIND',      'UNLINK',     'UNLOCK',
+                      'UNSUBSCRIBE'
+                    ],
+                    STATUS_CODES: {
+                      '100': 'Continue',
+                      '101': 'Switching Protocols',
+                      '102': 'Processing',
+                      '103': 'Early Hints',
+                      '200': 'OK',
+                      '201': 'Created',
+                      '202': 'Accepted',
+                      '203': 'Non-Authoritative Information',
+                      '204': 'No Content',
+                      '205': 'Reset Content',
+                      '206': 'Partial Content',
+                      '207': 'Multi-Status',
+                      '208': 'Already Reported',
+                      '226': 'IM Used',
+                      '300': 'Multiple Choices',
+                      '301': 'Moved Permanently',
+                      '302': 'Found',
+                      '303': 'See Other',
+                      '304': 'Not Modified',
+                      '305': 'Use Proxy',
+                      '307': 'Temporary Redirect',
+                      '308': 'Permanent Redirect',
+                      '400': 'Bad Request',
+                      '401': 'Unauthorized',
+                      '402': 'Payment Required',
+                      '403': 'Forbidden',
+                      '404': 'Not Found',
+                      '405': 'Method Not Allowed',
+                      '406': 'Not Acceptable',
+                      '407': 'Proxy Authentication Required',
+                      '408': 'Request Timeout',
+                      '409': 'Conflict',
+                      '410': 'Gone',
+                      '411': 'Length Required',
+                      '412': 'Precondition Failed',
+                      '413': 'Payload Too Large',
+                      '414': 'URI Too Long',
+                      '415': 'Unsupported Media Type',
+                      '416': 'Range Not Satisfiable',
+                      '417': 'Expectation Failed',
+                      '418': "I'm a Teapot",
+                      '421': 'Misdirected Request',
+                      '422': 'Unprocessable Entity',
+                      '423': 'Locked',
+                      '424': 'Failed Dependency',
+                      '425': 'Too Early',
+                      '426': 'Upgrade Required',
+                      '428': 'Precondition Required',
+                      '429': 'Too Many Requests',
+                      '431': 'Request Header Fields Too Large',
+                      '451': 'Unavailable For Legal Reasons',
+                      '500': 'Internal Server Error',
+                      '501': 'Not Implemented',
+                      '502': 'Bad Gateway',
+                      '503': 'Service Unavailable',
+                      '504': 'Gateway Timeout',
+                      '505': 'HTTP Version Not Supported',
+                      '506': 'Variant Also Negotiates',
+                      '507': 'Insufficient Storage',
+                      '508': 'Loop Detected',
+                      '509': 'Bandwidth Limit Exceeded',
+                      '510': 'Not Extended',
+                      '511': 'Network Authentication Required'
+                    },
+                    Agent: [Function: Agent] { defaultMaxSockets: Infinity },
+                    ClientRequest: [Function: ClientRequest],
+                    IncomingMessage: [Function: IncomingMessage],
+                    OutgoingMessage: [Function: OutgoingMessage],
+                    Server: [Function: Server],
+                    ServerResponse: [Function: ServerResponse],
+                    createServer: [Function: createServer],
+                    validateHeaderName: [Function: __node_internal_],
+                    validateHeaderValue: [Function: __node_internal_],
+                    get: [Function: get],
+                    request: [Function: request],
+                    setMaxIdleHTTPParsers: [Function: setMaxIdleHTTPParsers],
+                    maxHeaderSize: [Getter],
+                    globalAgent: [Getter/Setter]
+                  },
+                  'https:': {
+                    Agent: [Function: Agent],
+                    globalAgent: [Circular *2],
+                    Server: [Function: Server],
+                    createServer: [Function: createServer],
+                    get: [Function: get],
+                    request: [Function: request]
+                  }
+                },
+                pathname: '/',
+                _defaultAgent: [Circular *2],
+                host: 'fintecholympiad.org',
+                keepAlive: true,
+                scheduling: 'lifo',
+                timeout: 5000,
+                noDelay: true,
+                servername: 'fintecholympiad.org',
+                _agentKey: 'fintecholympiad.org:443:::::::::::::::::::::',
+                encoding: null,
+                keepAliveInitialDelay: 1000
+              }
+            }
+          ]
+        },
+        freeSockets: [Object: null prototype] {},
+        keepAliveMsecs: 1000,
+        keepAlive: true,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        scheduling: 'lifo',
+        maxTotalSockets: Infinity,
+        totalSocketCount: 1,
+        maxCachedSessions: 100,
+        _sessionCache: {
+          map: {
+            'fintecholympiad.org:443:::::::::::::::::::::': <Buffer 30 82 06 a8 02 01 01 02 02 03 04 04 02 13 02 04 20 5b 53 b9 f9 f7 ea 96 61 be 34 5f 3d e5 e2 b3 aa 48 b9 b9 df 53 d4 eb 45 e9 48 f5 26 69 fd 8c fe 04 ... 1658 more bytes>
+          },
+          list: [ 'fintecholympiad.org:443:::::::::::::::::::::' ]
+        },
+        [Symbol(kCapture)]: false
+      },
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/',
+      _ended: false,
+      res: null,
+      aborted: false,
+      timeoutCb: [Function: emitRequestTimeout],
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'fintecholympiad.org',
+      protocol: 'https:',
+      _redirectable: [Circular *3],
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype] {
+        accept: [ 'Accept', 'application/json, text/plain, */*' ],
+        'content-type': [ 'Content-Type', 'application/json' ],
+        'user-agent': [ 'User-Agent', 'axios/1.7.8' ],
+        'content-length': [ 'Content-Length', '72' ],
+        'accept-encoding': [ 'Accept-Encoding', 'gzip, compress, deflate, br' ],
+        host: [ 'Host', 'fintecholympiad.org' ]
+      },
+      [Symbol(errored)]: null,
+      [Symbol(kHighWaterMark)]: 16384,
+      [Symbol(kRejectNonStandardBodyWrites)]: false,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    _currentUrl: 'https://fintecholympiad.org/',
+    [Symbol(kCapture)]: false
+  },
+  cause: Error: read ECONNRESET
+      at __node_internal_captureLargerStackTrace (node:internal/errors:563:5)
+      at __node_internal_errnoException (node:internal/errors:690:12)
+      at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20) {
+    errno: -4077,
+    code: 'ECONNRESET',
+    syscall: 'read'
+  },
+  level: 'warn',
+  stack: 'Error: read ECONNRESET\n' +
+    '    at Function.AxiosError.from (d:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\axios\\lib\\core\\AxiosError.js:92:14)\n' +
+    '    at RedirectableRequest.handleRequestError (d:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\axios\\lib\\adapters\\http.js:620:25)\n' +
+    '    at RedirectableRequest.emit (node:events:514:28)\n' +
+    '    at eventHandlers.<computed> (d:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\follow-redirects\\index.js:49:24)\n' +
+    '    at ClientRequest.emit (node:events:514:28)\n' +
+    '    at TLSSocket.socketErrorListener (node:_http_client:495:9)\n' +
+    '    at TLSSocket.emit (node:events:514:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:151:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n' +
+    '    at Axios.request (d:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2024-12-01T06:02:07.335Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-01T06:08:38.903Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-01T06:08:38.906Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-01T06:08:38.906Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:08:41.134Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:08:43.692Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:08:43.953Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:08:44.475Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-01T06:08:44.902Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-01T06:11:52.931Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-01T06:11:52.937Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-01T06:11:52.937Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:11:54.841Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:11:57.608Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:11:57.613Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:11:57.925Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-01T06:11:58.837Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-01T06:12:03.157Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-01T06:12:03.163Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-01T06:12:03.163Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:12:05.057Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:12:07.620Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:12:07.882Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:12:08.188Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-01T06:12:08.855Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-01T06:18:46.537Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-01T06:18:46.540Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-01T06:18:46.541Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:18:50.932Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:18:52.589Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:18:52.950Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:18:53.164Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-01T06:18:54.350Z'
+}
+{
+  level: 'error',
+  message: 'message is missing critical data (`mediaUrl`) needed to download the file.',
+  stack: 'Error: message is missing critical data (`mediaUrl`) needed to download the file.\n' +
+    '    at Whatsapp.<anonymous> (D:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\@wppconnect-team\\wppconnect\\dist\\api\\whatsapp.js:329:35)\n' +
+    '    at step (D:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\@wppconnect-team\\wppconnect\\dist\\api\\whatsapp.js:64:23)\n' +
+    '    at Object.next (D:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\@wppconnect-team\\wppconnect\\dist\\api\\whatsapp.js:45:53)\n' +
+    '    at D:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\@wppconnect-team\\wppconnect\\dist\\api\\whatsapp.js:39:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (D:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\@wppconnect-team\\wppconnect\\dist\\api\\whatsapp.js:35:12)\n' +
+    '    at Whatsapp.decryptFile (D:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\@wppconnect-team\\wppconnect\\dist\\api\\whatsapp.js:321:16)\n' +
+    '    at autoDownload (d:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\src\\util\\functions.ts:164:35)\n' +
+    '    at callWebHook (d:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\src\\util\\functions.ts:134:13)\n' +
+    '    at EventEmitter.<anonymous> (d:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\src\\util\\createSessionUtil.ts:277:7)\n' +
+    '    at EventEmitter.emit (node:events:514:28)\n' +
+    '    at D:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\@wppconnect-team\\wppconnect\\dist\\api\\layers\\listener.layer.js:154:87',
+  timestamp: '2024-12-01T06:18:55.736Z'
+}
+{
+  level: 'error',
+  message: 'message is missing critical data (`mediaUrl`) needed to download the file.',
+  stack: 'Error: message is missing critical data (`mediaUrl`) needed to download the file.\n' +
+    '    at Whatsapp.<anonymous> (D:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\@wppconnect-team\\wppconnect\\dist\\api\\whatsapp.js:329:35)\n' +
+    '    at step (D:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\@wppconnect-team\\wppconnect\\dist\\api\\whatsapp.js:64:23)\n' +
+    '    at Object.next (D:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\@wppconnect-team\\wppconnect\\dist\\api\\whatsapp.js:45:53)\n' +
+    '    at D:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\@wppconnect-team\\wppconnect\\dist\\api\\whatsapp.js:39:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (D:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\@wppconnect-team\\wppconnect\\dist\\api\\whatsapp.js:35:12)\n' +
+    '    at Whatsapp.decryptFile (D:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\@wppconnect-team\\wppconnect\\dist\\api\\whatsapp.js:321:16)\n' +
+    '    at autoDownload (d:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\src\\util\\functions.ts:164:35)\n' +
+    '    at EventEmitter.<anonymous> (d:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\src\\util\\createSessionUtil.ts:295:15)\n' +
+    '    at EventEmitter.emit (node:events:514:28)\n' +
+    '    at D:\\Sandesh\\Private\\Whatsapp Server\\wppconnect-server\\node_modules\\@wppconnect-team\\wppconnect\\dist\\api\\layers\\listener.layer.js:154:87\n' +
+    '    at runNextTicks (node:internal/process/task_queues:60:5)\n' +
+    '    at process.processImmediate (node:internal/timers:449:9)',
+  timestamp: '2024-12-01T06:18:55.741Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-01T06:22:22.831Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-01T06:22:22.835Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-01T06:22:22.835Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:22:25.000Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:22:27.618Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:22:28.037Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:22:28.368Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-01T06:22:28.852Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-01T06:27:11.566Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-01T06:27:11.569Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-01T06:27:11.570Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:27:14.678Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:27:16.356Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:27:16.594Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:27:17.158Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-01T06:27:17.564Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-01T06:29:37.067Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-01T06:29:37.071Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-01T06:29:37.072Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:29:38.978Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:29:41.553Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:29:41.826Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:29:42.229Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-01T06:29:42.801Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-01T06:31:31.757Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-01T06:31:31.763Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-01T06:31:31.763Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:31:33.852Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:31:36.420Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:31:36.424Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:31:37.004Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-01T06:31:37.642Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-01T06:35:08.583Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-01T06:35:08.587Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-01T06:35:08.587Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:35:10.586Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:35:13.120Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:35:13.145Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:35:13.781Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-01T06:35:14.364Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-01T06:36:44.652Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-01T06:36:44.656Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-01T06:36:44.656Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:36:46.557Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:36:49.083Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:36:49.090Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:36:49.947Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-01T06:36:50.321Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-01T06:37:38.481Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-01T06:37:38.485Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-01T06:37:38.486Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:37:40.428Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:37:43.026Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:37:43.053Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:37:43.641Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-01T06:37:44.263Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-01T06:38:33.390Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-01T06:38:33.396Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-01T06:38:33.397Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:38:35.232Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:38:37.780Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:38:38.139Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:38:38.444Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-01T06:38:39.020Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-01T06:40:28.265Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-01T06:40:28.269Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-01T06:40:28.269Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:40:30.260Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:40:32.787Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-01T06:40:33.134Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:40:33.422Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-01T06:40:34.051Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-01T06:42:04.313Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-02T09:30:37.059Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-02T09:30:37.063Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-02T09:30:37.064Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T09:30:40.509Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T09:30:43.189Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T09:30:43.540Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T09:30:44.036Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-02T09:30:44.415Z'
+}
+{
+  message: 'Error trying to download the file.',
+  level: 'error',
+  timestamp: '2024-12-02T09:30:46.513Z'
+}
+{
+  message: 'Error trying to download the file.',
+  level: 'error',
+  timestamp: '2024-12-02T09:30:47.679Z'
+}
+{
+  message: 'Error trying to download the file.',
+  level: 'error',
+  timestamp: '2024-12-02T09:30:47.681Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-02T12:11:42.078Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-02T12:11:42.085Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-02T12:11:42.086Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T12:11:46.179Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T12:11:48.677Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T12:11:49.441Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T12:11:49.819Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-02T12:11:49.941Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-02T12:21:25.957Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-02T12:21:25.962Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-02T12:21:25.963Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T12:21:28.036Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T12:21:30.451Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T12:21:30.725Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T12:21:31.157Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-02T12:21:31.719Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-02T12:50:35.734Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-02T12:50:35.738Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-02T12:50:35.739Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T12:50:37.686Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T12:50:40.190Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T12:50:40.616Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T12:50:41.082Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-02T12:50:41.576Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-02T13:34:19.739Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-02T13:34:19.744Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-02T13:34:19.745Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T13:34:23.574Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T13:34:26.065Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T13:34:26.506Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T13:34:26.855Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-02T13:34:27.333Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-02T14:41:13.833Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-02T14:41:13.838Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-02T14:41:13.839Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T14:41:17.879Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T14:41:20.465Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T14:41:21.088Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T14:41:21.532Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-02T14:41:21.688Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-02T14:44:02.472Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-02T14:44:02.477Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-02T14:44:02.478Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T14:44:04.984Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T14:44:07.548Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T14:44:07.998Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T14:44:08.375Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-02T14:44:09.396Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-02T14:56:10.405Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-02T14:56:10.409Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-02T14:56:10.410Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T14:56:12.486Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T14:56:14.943Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T14:56:15.167Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T14:56:15.693Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-02T14:56:16.151Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-02T14:57:21.543Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-02T14:57:21.548Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-02T14:57:21.548Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T14:57:23.517Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T14:57:25.965Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-02T14:57:26.201Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-02T14:57:26.466Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-02T14:57:27.203Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:05.014Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:05.018Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:05.019Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:09.563Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:11.349Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - Loading your chats [0%]',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:12.052Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:12.567Z'
+}
+{
+  message: '[TEST_SANDESH] 3% - Loading your chats [3%]',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:15.090Z'
+}
+{
+  message: '[TEST_SANDESH] 13% - Loading your chats [13%]',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:16.096Z'
+}
+{
+  message: '[TEST_SANDESH] 19% - Loading your chats [19%]',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:17.099Z'
+}
+{
+  message: '[TEST_SANDESH] 29% - Loading your chats [29%]',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:18.118Z'
+}
+{
+  message: '[TEST_SANDESH] 43% - Loading your chats [43%]',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:19.116Z'
+}
+{
+  message: '[TEST_SANDESH] 49% - Loading your chats [49%]',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:20.117Z'
+}
+{
+  message: '[TEST_SANDESH] 57% - Loading your chats [57%]',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:20.825Z'
+}
+{
+  message: '[TEST_SANDESH] 60% - Loading your chats [60%]',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:21.117Z'
+}
+{
+  message: '[TEST_SANDESH] 69% - Loading your chats [69%]',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:22.117Z'
+}
+{
+  message: '[TEST_SANDESH] 82% - Loading your chats [82%]',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:23.125Z'
+}
+{
+  message: '[TEST_SANDESH] 89% - Loading your chats [89%]',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:24.133Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - Loading your chats [100%]',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:25.246Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-17T12:24:25.903Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-17T12:25:13.529Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-17T12:25:13.533Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-17T12:25:13.533Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-17T12:25:15.865Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-17T12:25:18.309Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-17T12:25:18.848Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-17T12:25:19.437Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-17T12:25:19.631Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-17T13:07:26.557Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-17T13:07:26.561Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-17T13:07:26.561Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-17T13:07:28.789Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-17T13:07:31.265Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-17T13:07:31.520Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-17T13:07:31.790Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-17T13:07:32.484Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-17T13:09:44.446Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-17T13:09:44.450Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-17T13:09:44.450Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-17T13:09:46.348Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-17T13:09:48.919Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-17T13:09:48.950Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-17T13:09:49.558Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-17T13:09:50.140Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-17T13:13:14.948Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-17T13:13:14.953Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-17T13:13:14.954Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-17T13:13:17.120Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-17T13:13:19.643Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-17T13:13:19.953Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-17T13:13:20.173Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-17T13:13:20.867Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T05:51:18.401Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T05:51:18.417Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T05:51:18.418Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T05:51:26.375Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T05:51:28.179Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T05:51:28.918Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T05:51:29.128Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-18T05:51:30.172Z'
+}
+{
+  message: 'Error trying to download the file.',
+  level: 'error',
+  timestamp: '2024-12-18T05:51:31.896Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T06:15:51.451Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T06:15:51.455Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T06:15:51.456Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T06:15:53.752Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T06:15:56.193Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T06:15:56.680Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T06:15:57.273Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-18T06:15:57.434Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T06:57:20.159Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T06:57:20.165Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T06:57:20.166Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T06:57:23.959Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T06:57:26.265Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T06:57:26.811Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T06:57:27.093Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-18T06:57:28.034Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T06:59:11.380Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T06:59:11.384Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T06:59:11.385Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T06:59:13.383Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T06:59:15.879Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T06:59:15.901Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T06:59:16.486Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-18T06:59:17.113Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T07:00:50.034Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T07:00:50.038Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T07:00:50.039Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T07:00:51.998Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T07:00:54.618Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:00:54.628Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:00:54.949Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-18T07:00:55.835Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T07:06:08.820Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T07:06:08.823Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T07:06:08.824Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T07:06:10.599Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:06:13.071Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T07:06:13.357Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:06:13.916Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-18T07:06:14.324Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T07:07:39.068Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T07:07:39.073Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T07:07:39.075Z'
+}
+{
+  message: '[TEST_SANDESH] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T07:07:41.054Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:07:43.530Z'
+}
+{
+  message: '[TEST_SANDESH] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T07:07:43.783Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:07:44.311Z'
+}
+{
+  message: 'Started Session: TEST_SANDESH',
+  level: 'info',
+  timestamp: '2024-12-18T07:07:44.776Z'
+}
+{
+  message: 'desconnectedMobile\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:08:59.127Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:08:59.662Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T07:09:22.668Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T07:09:22.673Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T07:09:22.674Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:11:55.089Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:12:55.575Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:12:55.862Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-12-18T07:12:55.866Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T07:24:14.240Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T07:24:14.246Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T07:24:14.247Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:24:21.491Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:24:40.868Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T07:24:41.155Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T07:24:42.086Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T07:24:43.627Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:24:43.825Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T07:24:45.697Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:24:46.957Z'
+}
+{
+  message: 'State Change CONNECTED: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T07:24:46.979Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T07:24:47.200Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T07:43:34.958Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T07:43:34.962Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T07:43:34.962Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T07:43:36.843Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:43:39.357Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T07:43:39.618Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:43:39.815Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T07:43:40.586Z'
+}
+{
+  message: 'desconnectedMobile\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:43:46.357Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:43:46.394Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T07:44:59.093Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T07:44:59.096Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T07:44:59.097Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:45:06.332Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:45:57.365Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T07:45:57.465Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T07:45:58.592Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T07:46:00.176Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:46:00.377Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T07:46:02.513Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T07:46:02.542Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T07:46:03.834Z'
+}
+{
+  message: 'State Change CONNECTED: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T07:46:03.850Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T07:46:04.048Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T07:59:55.470Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T07:59:55.473Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T07:59:55.473Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T07:59:57.672Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:00:00.104Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T08:00:00.370Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:00:00.764Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T08:00:01.320Z'
+}
+{
+  message: 'desconnectedMobile\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:00:07.167Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:00:07.258Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T08:01:52.326Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T08:01:52.331Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T08:01:52.331Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:01:57.160Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:02:24.890Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:02:25.110Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T08:02:26.113Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:02:27.121Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:02:27.285Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T08:02:29.300Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:02:29.317Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:02:30.590Z'
+}
+{
+  message: 'State Change CONNECTED: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T08:02:30.620Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:02:30.818Z'
+}
+{
+  message: 'Error trying to download the file.',
+  level: 'error',
+  timestamp: '2024-12-18T08:02:55.270Z'
+}
+{
+  message: 'desconnectedMobile\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:03:08.147Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:03:08.195Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T08:03:36.772Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T08:03:36.775Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T08:03:36.775Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:03:41.494Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:03:50.055Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:03:50.200Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T08:03:51.285Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:03:53.161Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:03:53.347Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T08:07:10.047Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T08:07:10.051Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T08:07:10.051Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T08:07:11.974Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:07:15.482Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T08:07:15.707Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:07:15.912Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T08:07:16.703Z'
+}
+{
+  message: 'desconnectedMobile\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:07:18.435Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:07:18.518Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T08:08:01.902Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T08:08:01.906Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T08:08:01.906Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:08:06.607Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:08:32.651Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:08:32.877Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T08:08:33.871Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:08:34.892Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:08:35.053Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T08:08:36.936Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:08:36.958Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:08:38.221Z'
+}
+{
+  message: 'State Change CONNECTED: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T08:08:38.240Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:08:38.474Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T08:10:41.615Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T08:10:41.620Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T08:10:41.620Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T08:10:44.240Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:10:46.721Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T08:10:47.186Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:10:47.626Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T08:10:47.955Z'
+}
+{
+  message: 'desconnectedMobile\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:10:54.716Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:10:54.778Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T08:11:22.887Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T08:11:22.895Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T08:11:22.895Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:11:27.660Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:11:32.520Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:11:32.735Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T08:11:33.742Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:11:35.004Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:11:35.210Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T08:11:37.185Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:11:37.208Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:11:38.454Z'
+}
+{
+  message: 'State Change CONNECTED: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T08:11:38.532Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:11:38.709Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T08:12:57.153Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T08:12:57.157Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T08:12:57.157Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T08:12:59.496Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:13:01.896Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T08:13:02.166Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:13:02.606Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T08:13:03.110Z'
+}
+{
+  message: 'desconnectedMobile\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:13:04.955Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:13:05.471Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T08:15:28.475Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T08:15:28.479Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T08:15:28.479Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:15:33.051Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:16:00.927Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:16:01.313Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T08:16:02.161Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:16:03.031Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:16:03.203Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:16:05.140Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:16:06.355Z'
+}
+{
+  message: 'State Change CONNECTED: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T08:16:06.374Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T08:16:06.654Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T08:19:54.573Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T08:19:54.578Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T08:19:54.579Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T08:19:58.114Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:20:00.514Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T08:20:01.140Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:20:01.488Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T08:20:01.725Z'
+}
+{
+  message: 'desconnectedMobile\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:20:03.574Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:20:03.613Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T08:20:18.847Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T08:20:18.851Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T08:20:18.852Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:20:24.047Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:20:46.252Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T08:20:47.487Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T08:20:48.785Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T10:11:41.447Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T10:11:41.451Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T10:11:41.452Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T10:11:45.033Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T10:11:53.446Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T10:12:05.943Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T10:12:07.179Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T10:12:08.680Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T10:12:08.681Z'
+}
+{
+  message: 'Error trying to download the file.',
+  level: 'error',
+  timestamp: '2024-12-18T10:12:13.270Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T10:13:55.001Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T10:13:55.006Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T10:13:55.007Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T10:13:56.962Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T10:14:04.173Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T10:15:04.681Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T10:15:04.992Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-12-18T10:15:04.995Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T11:04:50.852Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T11:04:50.855Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T11:04:50.856Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:04:57.370Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:05:28.412Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T11:05:28.556Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:05:29.632Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T11:05:31.003Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:05:31.222Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T11:05:33.454Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:05:34.766Z'
+}
+{
+  message: 'State Change CONNECTED: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:05:34.811Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T11:05:34.967Z'
+}
+{
+  message: 'Error trying to download the file.',
+  level: 'error',
+  timestamp: '2024-12-18T11:05:42.003Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T11:06:27.575Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T11:06:27.578Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T11:06:27.579Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:06:29.847Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:06:32.309Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:06:32.856Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:06:33.359Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:06:33.542Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T11:08:48.416Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T11:08:48.419Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T11:08:48.419Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:08:50.512Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:08:52.918Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:08:53.169Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:08:54.088Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:08:54.274Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T11:10:18.289Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T11:10:18.293Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T11:10:18.293Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:10:21.780Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:10:24.226Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:10:24.281Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:10:25.293Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:10:25.506Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:12:04.584Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:12:16.607Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:12:18.551Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:12:19.195Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:12:19.264Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:12:19.469Z'
+}
+{
+  message: 'State Change CONNECTED: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:12:19.673Z'
+}
+{
+  message: 'State Change PAIRING: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:13:08.401Z'
+}
+{
+  message: 'desconnectedMobile\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:13:08.465Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:13:08.476Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:13:28.866Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:13:41.860Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T11:13:42.169Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:13:43.072Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T11:13:44.737Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:13:44.942Z'
+}
+{
+  message: 'Error trying to download the file.',
+  level: 'error',
+  timestamp: '2024-12-18T11:13:48.512Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T11:14:34.610Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T11:14:34.615Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T11:14:34.615Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:14:36.577Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:14:40.054Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:14:40.437Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:14:40.615Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:14:41.274Z'
+}
+{
+  message: 'desconnectedMobile\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:14:42.841Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:14:42.854Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T11:15:56.718Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T11:15:56.721Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T11:15:56.722Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:16:05.318Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:16:23.097Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:16:24.321Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:16:25.590Z'
+}
+{
+  message: 'Error trying to download the file.',
+  level: 'error',
+  timestamp: '2024-12-18T11:16:28.323Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T11:17:07.275Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T11:17:07.279Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T11:17:07.282Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:17:09.153Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:17:15.563Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:17:25.956Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:17:27.173Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:17:28.714Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:17:28.715Z'
+}
+{
+  message: 'Error trying to download the file.',
+  level: 'error',
+  timestamp: '2024-12-18T11:17:33.935Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Do not close this window',
+  level: 'info',
+  timestamp: '2024-12-18T11:17:47.669Z'
+}
+{
+  message: 'desconnectedMobile\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:17:51.390Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:17:51.450Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T11:18:55.452Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T11:18:55.457Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T11:18:55.458Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:19:00.076Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:19:21.890Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T11:19:21.997Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:19:23.113Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T11:19:25.145Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:19:25.304Z'
+}
+{
+  message: 'Error trying to download the file.',
+  level: 'error',
+  timestamp: '2024-12-18T11:19:28.656Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T11:19:53.706Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T11:19:53.710Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T11:19:53.710Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:19:55.423Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:19:58.823Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:19:59.099Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:19:59.250Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:20:00.044Z'
+}
+{
+  message: 'desconnectedMobile\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:20:05.938Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:20:05.960Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T11:32:01.922Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T11:32:01.926Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T11:32:01.927Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:32:07.068Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:32:41.324Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T11:32:41.576Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:32:42.549Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T11:32:43.588Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:32:43.766Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:32:45.676Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T11:32:45.703Z'
+}
+{
+  message: 'State Change CONNECTED: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:32:46.789Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:32:46.983Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T11:32:47.205Z'
+}
+{
+  message: 'Error trying to download the file.',
+  level: 'error',
+  timestamp: '2024-12-18T11:32:49.475Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T11:33:12.004Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T11:33:12.009Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T11:33:12.010Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:33:13.753Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:33:16.207Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:33:16.271Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:33:16.493Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:33:17.488Z'
+}
+{
+  message: 'State Change UNPAIRED: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:33:23.166Z'
+}
+{
+  message: 'desconnectedMobile\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:33:23.248Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:33:23.262Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:00.239Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:00.243Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:00.243Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:04.749Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:09.514Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:09.860Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:10.735Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:12.226Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:12.385Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:14.305Z'
+}
+{
+  message: 'State Change CONNECTED: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:15.421Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:15.560Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:15.819Z'
+}
+{
+  message: 'Error trying to download the file.',
+  level: 'error',
+  timestamp: '2024-12-18T11:35:19.468Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:38.886Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:38.889Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:38.890Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:40.620Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:42.982Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:43.212Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:44.047Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:35:44.200Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T11:46:01.430Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T11:46:01.434Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T11:46:01.435Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:46:03.664Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:46:06.285Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:46:06.336Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:46:07.535Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:46:07.614Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T11:49:52.119Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T11:49:52.126Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T11:49:52.126Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:49:55.734Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:49:58.257Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:49:58.536Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:49:59.530Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:49:59.743Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T11:57:04.153Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T11:57:04.157Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T11:57:04.157Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:57:07.214Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:57:09.848Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T11:57:09.960Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T11:57:10.927Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T11:57:11.078Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T12:09:16.657Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T12:09:16.661Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T12:09:16.662Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:09:20.525Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:09:22.949Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:09:23.184Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:09:24.197Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T12:09:24.238Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T12:22:31.815Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T12:22:31.820Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T12:22:31.820Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:22:33.939Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:22:36.561Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:22:37.006Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T12:22:37.785Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:22:38.059Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T12:28:22.960Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T12:28:22.963Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T12:28:22.964Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:28:24.664Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:28:27.087Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:28:27.121Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T12:28:28.324Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:28:28.444Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T12:32:34.247Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T12:32:34.251Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T12:32:34.251Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:32:36.244Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:32:38.934Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:32:39.321Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T12:32:40.210Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:32:40.476Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T12:36:37.402Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T12:36:37.408Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T12:36:37.409Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:36:39.427Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:36:41.842Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:36:42.462Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:36:43.094Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T12:36:43.123Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T12:37:52.324Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T12:37:52.329Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T12:37:52.330Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:37:54.488Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:37:56.969Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:37:57.647Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T12:37:58.226Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:37:58.304Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T12:38:08.481Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T12:38:08.485Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T12:38:08.486Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:38:10.315Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:38:12.767Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:38:13.443Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T12:38:14.005Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:38:14.304Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T12:39:00.279Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T12:39:00.285Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T12:39:00.285Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:39:03.969Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:39:06.406Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:39:06.425Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:39:07.589Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T12:39:07.844Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-18T12:39:11.208Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-18T12:39:11.212Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-18T12:39:11.212Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:39:13.123Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:39:15.585Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 100% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-18T12:39:16.234Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-18T12:39:16.812Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-12-18T12:39:16.882Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-12-25T13:06:53.813Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-12-25T13:06:53.823Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2024-12-25T13:06:53.825Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2024-12-25T13:06:59.897Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:02.518Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - Loading your chats [0%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:03.004Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:03.729Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 1% - Loading your chats [1%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:05.009Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 2% - Loading your chats [2%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:06.009Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 3% - Loading your chats [3%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:07.035Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 4% - Loading your chats [4%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:08.037Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 5% - Loading your chats [5%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:10.144Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 6% - Loading your chats [6%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:14.109Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 7% - Loading your chats [7%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:15.112Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 9% - Loading your chats [9%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:16.157Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 10% - Loading your chats [10%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:17.162Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 11% - Loading your chats [11%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:18.163Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 13% - Loading your chats [13%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:19.346Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 16% - Loading your chats [16%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:20.346Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 17% - Loading your chats [17%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:21.344Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 19% - Loading your chats [19%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:22.348Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 20% - Loading your chats [20%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:23.352Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 21% - Loading your chats [21%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:24.352Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 22% - Loading your chats [22%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:25.600Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 24% - Loading your chats [24%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:26.616Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 25% - Loading your chats [25%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:27.616Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 26% - Loading your chats [26%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:28.905Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 27% - Loading your chats [27%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:29.903Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 29% - Loading your chats [29%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:30.903Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 30% - Loading your chats [30%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:31.911Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 31% - Loading your chats [31%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:32.911Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 33% - Loading your chats [33%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:33.911Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 34% - Loading your chats [34%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:34.914Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 36% - Loading your chats [36%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:35.916Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 37% - Loading your chats [37%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:36.917Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 39% - Loading your chats [39%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:37.916Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 41% - Loading your chats [41%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:39.918Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 42% - Loading your chats [42%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:40.923Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 43% - Loading your chats [43%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:42.315Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 46% - Loading your chats [46%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:43.312Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 47% - Loading your chats [47%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:44.313Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 48% - Loading your chats [48%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:45.316Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 49% - Loading your chats [49%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:46.327Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 52% - Loading your chats [52%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:47.745Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 56% - Loading your chats [56%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:48.743Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 58% - Loading your chats [58%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:50.848Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 59% - Loading your chats [59%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:51.848Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 60% - Loading your chats [60%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:52.854Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 61% - Loading your chats [61%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:53.855Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 64% - Loading your chats [64%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:54.854Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 65% - Loading your chats [65%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:56.052Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 68% - Loading your chats [68%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:57.084Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 69% - Loading your chats [69%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:58.098Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 72% - Loading your chats [72%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:07:59.131Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 74% - Loading your chats [74%]',
+  level: 'info',
+  timestamp: '2024-12-25T13:08:00.732Z'
+}
