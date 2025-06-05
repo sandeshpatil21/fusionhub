@@ -1,10 +1,11 @@
 import { ServerOptions } from './types/ServerOptions';
 
 export default {
-  secretKey: 'E3346E6C7EA8884CF879D5E546E6F', // internet generated secret key
+  secretKey: 'E3346E6C7EA8884CF879D5E546E6F', // internet generated secret key 
   host: 'http://localhost',
   port: '21465',
   deviceName: 'FusionHub',
+  // TEST_FUSIONHUB $2b$10$bDjmy4n8c3C6OTWkxnLTT.h2xJk8sLHXiJoHpCS790AJq.ebcM_5e
   poweredBy: 'SPTechServices',
   startAllSession: true,
   tokenStoreType: 'file',customCss: `

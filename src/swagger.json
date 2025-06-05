@@ -648,7 +648,7 @@
                     "isGroup": false,
                     "isNewsletter": false,
                     "isLid": false,
-                    "message": "Hi from WPPConnect"
+                    "message": "Hi from FusionHub"
                   }
                 },
                 "Send message with reply": {
@@ -657,7 +657,7 @@
                     "isGroup": false,
                     "isNewsletter": false,
                     "isLid": false,
-                    "message": "Hi from WPPConnect with reply",
+                    "message": "Hi from FusionHub with reply",
                     "options": {
                       "quotedMsg": "true_...@c.us_3EB01DE65ACC6_out"
                     }
@@ -667,7 +667,7 @@
                   "value": {
                     "phone": "8865623215244578",
                     "isGroup": true,
-                    "message": "Hi from WPPConnect"
+                    "message": "Hi from FusionHub"
                   }
                 }
               }
@@ -7271,7 +7271,7 @@
                 "website": {
                   "type": "array",
                   "example": [
-                    "https://www.wppconnect.io",
+                    "https://www.FusionHub.io",
                     "https://www.teste2.com.br"
                   ],
                   "items": {
@@ -7331,7 +7331,7 @@
                   "$not_a_biz": false
                 },
                 "website": [
-                  "https://www.wppconnect.io",
+                  "https://www.FusionHub.io",
                   "https://www.teste2.com.br"
                 ]
               }

@@ -1,13 +1,7 @@
 {
-<<<<<<< HEAD
   "name": "fusionhub-server",
   "version": "2.8.1",
   "description": "FusionHub - A powerful WhatsApp API server for seamless integration and automation",
-=======
-  "name": "@wppconnect/server",
-  "version": "2.8.3",
-  "description": "Projeto feito para autenticar a automomacao do WhatsappWeb com multi-clientes de forma dinamica. Backend feito em Nodejs(express, socketio), FrontEnd (ReactJS)",
->>>>>>> 160686d09b72091874e089cd7537b6fadbe12c5f
   "main": "dist/index.js",
   "author": "kingaspx",
   "license": "Apache-2.0",
@@ -104,7 +98,7 @@
     "pretty-quick": "^4.0.0",
     "prom-client": "^14.2.0",
     "redis": "^4.7.0",
-    "release-it": "^17.10.0",
+    "release-it": "^19.0.3",
     "rimraf": "^5.0.10",
     "shx": "^0.3.4",
     "swagger-ui-dist": "^5.17.14",

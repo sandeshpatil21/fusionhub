@@ -175,21 +175,10 @@ app.use(
   swaggerUi.setup(require('./swagger.json'), {
     customCss: `
       .swagger-ui .topbar {
-        background-color: #fff;
+        background-color: #5F4AA8;
         padding: 10px 0;
       }
 
-      .swagger-ui .topbar-wrapper img {
-        content: url('/public/images/logo.png');
-        height: 40px;
-        margin: 0;
-      }
-
-      .swagger-ui .topbar-wrapper > *:not(img) {
-        display: none !important;
-      }
-
-      /* Change main page title */
       .swagger-ui .info .title {
         display: none;
       }
@@ -201,14 +190,10 @@ app.use(
         display: block;
         margin-bottom: 20px;
       }
-
-      /* Override Swagger UI text */
-      .swagger-ui .swagger-ui-wrap:before {
-        content: 'FusionHub API';
-      }
     `,
     customSiteTitle: "FusionHub API",
     customfavIcon: "/images/favicon.png",
+    customJs: ['/custom.js'],
     swaggerOptions: {
       docExpansion: 'none',
       defaultModelsExpandDepth: -1,

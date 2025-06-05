@@ -932,47 +932,8 @@ routes.post(
 routes.post('/api/:session/chatwoot', DeviceController.chatWoot);
 
 // Api Doc
-<<<<<<< HEAD
-routes.use('/api-docs', swaggerUi.serve);
-routes.get('/api-docs', swaggerUi.setup(swaggerDocument, {
-  customCss: `
-    .swagger-ui .topbar {
-      height: 60px;
-    }
-
-    /* Hide original Swagger UI logo */
-    .swagger-ui .topbar-wrapper .link {
-      display: none !important;
-    }
-
-    /* Add our custom logo */
-    .swagger-ui .topbar-wrapper:after {
-      content: '';
-      background-image: url('/images/logo.png');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-position: center center;
-      height: 40px;
-      width: 200px;
-      display: block;
-      position: absolute;
-      left: 50%;
-      top: 10px;
-      transform: translateX(-50%);
-    }
-
-    /* Hide other topbar elements */
-    .swagger-ui .topbar-wrapper > *:not(:after) {
-      display: none !important;
-    }
-  `,
-  customSiteTitle: "FusionHub API",
-  customfavIcon: "/images/favicon.png"
-}));
-=======
 routes.use('/api-docs', swaggerUi.serve as any);
 routes.get('/api-docs', swaggerUi.setup(swaggerDocument) as any);
->>>>>>> 160686d09b72091874e089cd7537b6fadbe12c5f
 
 //k8s
 routes.get('/healthz', HealthCheck.healthz);
