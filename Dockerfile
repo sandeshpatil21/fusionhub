@@ -1,7 +1,8 @@
 FROM node:lts-alpine3.18 as base
 WORKDIR /usr/src/wpp-server
 ENV NODE_ENV=production PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
-COPY package.json ./
+
+# Install system dependencies
 RUN apk update && \
     apk add --no-cache \
     vips-dev \
@@ -10,25 +11,48 @@ RUN apk update && \
     g++ \
     make \
     libc6-compat \
+    python3 \
     && rm -rf /var/cache/apk/*
-RUN yarn install --production --pure-lockfile && \
+
+# Copy package files
+COPY package*.json ./
+
+# Install dependencies
+RUN yarn install --production --frozen-lockfile && \
     yarn add sharp --ignore-engines && \
     yarn cache clean
 
 FROM base as build
 WORKDIR /usr/src/wpp-server
 ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
-COPY package.json  ./
-RUN yarn install --production=false --pure-lockfile
-RUN yarn cache clean
+
+# Copy all source files
 COPY . .
-RUN yarn build
+
+# Install all dependencies including devDependencies
+RUN yarn install --frozen-lockfile && \
+    yarn build
 
 FROM base
 WORKDIR /usr/src/wpp-server/
+
+# Install chromium
 RUN apk add --no-cache chromium
-RUN yarn cache clean
-COPY . .
-COPY --from=build /usr/src/wpp-server/ /usr/src/wpp-server/
+
+# Copy built files and source
+COPY --from=build /usr/src/wpp-server/dist ./dist
+COPY --from=build /usr/src/wpp-server/src ./src
+
+# Create necessary directories
+RUN mkdir -p \
+    ./userDataDir \
+    ./tokens \
+    ./uploads \
+    ./WhatsAppImages \
+    && chown -R node:node .
+
+# Use non-root user
+USER node
+
 EXPOSE 21465
-ENTRYPOINT ["node", "dist/server.js"]
+CMD ["node", "dist/server.js"]
