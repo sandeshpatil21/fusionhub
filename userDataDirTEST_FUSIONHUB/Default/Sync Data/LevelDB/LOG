@@ -1,2 +1,3 @@
-2025/06/05-15:41:05.026 6afc Creating DB D:\Sandesh\Private\Whatsapp Server\wppconnect-server\userDataDirTEST_FUSIONHUB\Default\Sync Data\LevelDB since it was missing.
-2025/06/05-15:41:05.094 6afc Reusing MANIFEST D:\Sandesh\Private\Whatsapp Server\wppconnect-server\userDataDirTEST_FUSIONHUB\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/06/05-16:07:43.438 3f30 Reusing MANIFEST D:\Sandesh\Private\Whatsapp Server\wppconnect-server\userDataDirTEST_FUSIONHUB\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/06/05-16:07:43.442 3f30 Recovering log #3
+2025/06/05-16:07:43.443 3f30 Reusing old log D:\Sandesh\Private\Whatsapp Server\wppconnect-server\userDataDirTEST_FUSIONHUB\Default\Sync Data\LevelDB/000003.log 

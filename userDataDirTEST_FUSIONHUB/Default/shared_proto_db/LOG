@@ -1,2 +1,3 @@
-2025/06/05-15:41:05.224 6afc Creating DB D:\Sandesh\Private\Whatsapp Server\wppconnect-server\userDataDirTEST_FUSIONHUB\Default\shared_proto_db since it was missing.
-2025/06/05-15:41:05.243 6afc Reusing MANIFEST D:\Sandesh\Private\Whatsapp Server\wppconnect-server\userDataDirTEST_FUSIONHUB\Default\shared_proto_db/MANIFEST-000001
+2025/06/05-16:07:43.571 5b40 Reusing MANIFEST D:\Sandesh\Private\Whatsapp Server\wppconnect-server\userDataDirTEST_FUSIONHUB\Default\shared_proto_db/MANIFEST-000001
+2025/06/05-16:07:43.571 5b40 Recovering log #3
+2025/06/05-16:07:43.571 5b40 Reusing old log D:\Sandesh\Private\Whatsapp Server\wppconnect-server\userDataDirTEST_FUSIONHUB\Default\shared_proto_db/000003.log 
