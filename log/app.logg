@@ -6000,3 +6000,23 @@
   level: 'error',
   timestamp: '2025-06-05T09:21:04.109Z'
 }
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-06-05T10:11:04.271Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-06-05T10:11:04.274Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2025-06-05T10:11:04.275Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2025-06-05T10:11:11.328Z'
+}
