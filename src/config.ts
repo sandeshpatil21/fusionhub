@@ -1,14 +1,18 @@
 import { ServerOptions } from './types/ServerOptions';
+import { getPaths } from './utils/storage';
+
+const paths = getPaths();
 
 export default {
-  secretKey: 'E3346E6C7EA8884CF879D5E546E6F', // internet generated secret key 
-  host: 'http://localhost',
-  port: '21465',
+  secretKey: process.env.SECRET_KEY || 'E3346E6C7EA8884CF879D5E546E6F', // internet generated secret key 
+  host: process.env.HOST || 'http://localhost',
+  port: process.env.PORT || '21465',
   deviceName: 'FusionHub',
   // TEST_FUSIONHUB $2b$10$bDjmy4n8c3C6OTWkxnLTT.h2xJk8sLHXiJoHpCS790AJq.ebcM_5e
   poweredBy: 'SPTechServices',
   startAllSession: true,
-  tokenStoreType: 'file',customCss: `
+  tokenStoreType: 'file',
+  customCss: `
     .swagger-ui .topbar {
       background-image: url('/public/images/logo.png');
       background-size: contain;
@@ -17,7 +21,7 @@ export default {
     }
   `,
   maxListeners: 15,
-  customUserDataDir: './userDataDir/',
+  customUserDataDir: paths.userDataDir,
   webhook: {
     url: null,
     autoDownload: true,

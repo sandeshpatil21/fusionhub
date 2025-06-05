@@ -15,5 +15,8 @@
  */
 import config from './config';
 import { initServer } from './index';
+import { ensureStorageDirectories } from './utils/ensureStorage';
+
+ensureStorageDirectories();
 
 initServer(config);
