@@ -5590,3 +5590,413 @@
   level: 'info',
   timestamp: '2024-12-25T13:08:00.732Z'
 }
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-01-21T09:40:16.500Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-01-21T09:40:16.506Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2025-01-21T09:40:16.507Z'
+}
+{
+  message: '[TEST_FUSIONHUB] 0% - WhatsApp',
+  level: 'info',
+  timestamp: '2025-01-21T09:40:21.084Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2025-01-21T09:40:23.493Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2025-01-21T09:40:24.720Z'
+}
+{
+  message: 'desconnectedMobile\n\n',
+  level: 'info',
+  timestamp: '2025-01-21T09:40:27.964Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-01-21T09:40:27.981Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-01-21T09:43:46.420Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-01-21T09:43:46.426Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2025-01-21T09:43:46.426Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2025-01-21T09:43:53.809Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-01-21T09:44:54.271Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2025-01-21T09:44:54.560Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2025-01-21T09:44:54.562Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-01-21T09:47:06.163Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-01-21T09:47:06.167Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2025-01-21T09:47:06.168Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2025-01-21T09:47:12.722Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-01-21T09:48:13.205Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2025-01-21T09:48:13.511Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2025-01-21T09:48:13.514Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-01-21T09:53:43.873Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-01-21T09:53:43.878Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2025-01-21T09:53:43.878Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2025-01-21T09:53:49.707Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-01-21T09:54:50.186Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2025-01-21T09:54:50.515Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2025-01-21T09:54:50.518Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-01-21T10:01:22.361Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-01-21T10:01:22.365Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2025-01-21T10:01:22.366Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-01-21T10:02:42.404Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-01-21T10:02:42.408Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2025-01-21T10:02:42.409Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-01-21T16:15:13.175Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-01-21T16:15:13.179Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2025-01-21T16:15:13.180Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-01-21T16:54:49.840Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-01-21T16:54:49.843Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2025-01-21T16:54:49.844Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-01-21T16:56:53.611Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-01-21T16:56:53.617Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2025-01-21T16:56:53.617Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-01-22T07:10:47.537Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-01-22T07:10:47.540Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2025-01-22T07:10:47.541Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-01-22T07:14:50.365Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-01-22T07:14:50.371Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2025-01-22T07:14:50.372Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2025-01-22T07:15:28.306Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-01-22T07:16:28.755Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2025-01-22T07:16:29.115Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2025-01-22T07:16:29.119Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-01-22T07:35:15.490Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-01-22T07:35:15.493Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2025-01-22T07:35:15.494Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2025-01-22T07:35:23.081Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-01-22T07:36:23.670Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2025-01-22T07:36:23.954Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2025-01-22T07:36:23.956Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-01-22T07:37:31.496Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-01-22T07:37:31.501Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2025-01-22T07:37:31.503Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2025-01-22T07:37:37.472Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2025-01-22T07:37:49.363Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2025-01-22T07:37:50.589Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2025-01-22T07:37:51.919Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-06-05T09:07:50.335Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-06-05T09:07:50.341Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2025-06-05T09:07:50.342Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2025-06-05T09:07:59.162Z'
+}
+{
+  message: 'Started Session: TEST_FUSIONHUB',
+  level: 'info',
+  timestamp: '2025-06-05T09:08:00.392Z'
+}
+{
+  message: 'desconnectedMobile\n\n',
+  level: 'info',
+  timestamp: '2025-06-05T09:08:08.180Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-06-05T09:08:08.202Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-06-05T09:19:55.714Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-06-05T09:19:55.718Z'
+}
+{
+  message: 'FusionHub Server version: 2.8.1',
+  level: 'info',
+  timestamp: '2025-06-05T09:19:55.719Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2025-06-05T09:20:03.282Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-06-05T09:21:03.787Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2025-06-05T09:21:04.106Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2025-06-05T09:21:04.109Z'
+}

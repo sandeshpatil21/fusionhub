@@ -1,3 +1,3 @@
-2024/12/25-18:36:57.802 59c4 Reusing MANIFEST D:\Sandesh\Private\Whatsapp Server\wppconnect-server\userDataDir\TEST_FUSIONHUB\Default\Sync Data\LevelDB/MANIFEST-000001
-2024/12/25-18:36:57.807 59c4 Recovering log #3
-2024/12/25-18:36:57.810 59c4 Reusing old log D:\Sandesh\Private\Whatsapp Server\wppconnect-server\userDataDir\TEST_FUSIONHUB\Default\Sync Data\LevelDB/000003.log 
+2025/06/05-14:49:56.644 eec Reusing MANIFEST D:\Sandesh\Private\Whatsapp Server\wppconnect-server\userDataDir\TEST_FUSIONHUB\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/06/05-14:49:56.652 eec Recovering log #3
+2025/06/05-14:49:56.652 eec Reusing old log D:\Sandesh\Private\Whatsapp Server\wppconnect-server\userDataDir\TEST_FUSIONHUB\Default\Sync Data\LevelDB/000003.log 
